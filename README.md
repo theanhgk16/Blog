@@ -4,7 +4,7 @@
 4. .\venv\Scripts\activate
 5. python manage.py makemigrations
 6. python manage.py migrate
-7. python manage.y createsuperuser
+7. python manage.py createsuperuser
 8. python manage.py runserver
 9. username: admin, pasword:1
 
