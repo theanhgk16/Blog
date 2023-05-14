@@ -14,9 +14,10 @@ Project Summary and Features
   + Mute unmute notifications
   + Deployment on pythonanywhere
 
-pythonanywher:
+pythonanywhere:
     + username:anh.nguyen
-    + email: thenahgk16@gmail.com
+    + email: theanhhgk16@gmail.com
     + password: ...
+    + link: https://anhnguyen.pythonanywhere.com/
 
 
