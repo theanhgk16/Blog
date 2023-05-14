@@ -25,9 +25,9 @@ project summary and features
   + Deployment on pythonanywhere
 
 pythonanywhere:
-    + username:anh.nguyen
-    + email: theanhhgk16@gmail.com
-    + password: ...
-    + link: https://anhnguyen.pythonanywhere.com/
+  + username: anhnguyen
+  + email: theanhhgk16@gmail.com
+  + password: ...
+  + link: https://anhnguyen.pythonanywhere.com/
 
 
