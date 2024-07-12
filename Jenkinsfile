@@ -11,8 +11,8 @@ pipeline {
                 // This step should not normally be used in your script. Consult the inline help for details.
                 withDockerRegistry(credentialsId: 'creds-dockerhub', url:'') {
                     // some block
-                    sh label: '', script: 'docker build -t anhnt123/devops-anhnt:lastest .'
-                    sh label: '', script: 'docker push anhnt123/devops-anhnt:lastest'
+                    sh label: '', script: 'docker build -t anhnt123/devops-anhnt:latest .'
+                    sh label: '', script: 'docker push anhnt123/devops-anhnt:latest'
                 }
             }
         }
